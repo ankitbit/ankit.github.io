@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Books
+title: Favourite Books
 ---
 
 # How to be a modern scientist
