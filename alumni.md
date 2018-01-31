@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Alumni
+title: Curriculum Vitae
 ---
 
 
 <div style="float: left; margin-right:15px">
     <img src="../images/alyssa.jpeg"/>
 </div>
-[Alyssa Frazee](http://alyssafrazee.com/) was a Ph.D. student in Biostatistics at the Johns Hopkins Bloomberg School of Public Health. She built [derfinder](https://github.com/alyssafrazee/derfinder), [ballgown](https://github.com/alyssafrazee/ballgown) and [RSkittleBrewer](https://github.com/alyssafrazee/RSkittleBrewer), and she writes an [awesome blog](http://alyssafrazee.com/) which has appeared on the front page of Hacker News. She is now a data scientist at [Stripe](https://stripe.com/). 
+I did Master's from MESIO 
 
 
 
