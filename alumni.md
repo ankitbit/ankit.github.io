@@ -2,9 +2,7 @@
 layout: page
 title: Curriculum Vitae
 ---
-
-
-<div style="float: left; margin-right:15px">
-</div>
-I did Master's from MESIO 
+### Education
+* University of Barcelona (UB) and Polytechnic University of Catalunya (UPC BarcelonaTech)
+* Birla Institute of Technology, Mesra (India)
 
