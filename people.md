@@ -3,7 +3,6 @@ layout: page
 title: Awards and Recognitions
 ---
 
-## Awards and Recognitions
 
 * Certificate of Merit by Central Board of Secondary Education (CBSE) in 2011
 * Certificate for Overall Outstanding Academic Performance by Kendriya Vidyalaya Sangathan in 2011
