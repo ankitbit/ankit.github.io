@@ -3,7 +3,7 @@ layout: page
 title: Software
 ---
 
-Find me on [Github](http://github.com/jtleek)
+Find me on [Github](http://github.com/ankitbit)
 
 * [[papr]](http://jhubiostatistics.shinyapps.io/papr) - A tindr like web-app for rating preprints from bioRxiv. Written by Lucy D'Agostino McGowan, Nicholas Strayer, and Jeff Leek.
 * [[Rail-RNA]](https://github.com/nellore/rail) Rail-RNA is software for alignment of multiple RNA-seq samples jointly that can be run on a local computer, on a local cluster, or on the AWS cloud. 
