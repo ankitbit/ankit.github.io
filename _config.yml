@@ -5,8 +5,8 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            ANKIT TEWARI
-tagline:          'Leek Group'
+title:            Ankit Tewari
+tagline:          'Ankit Tewari'
 description:      'Find me online <a href="http://twitter.com/jtleek">@jtleek</a>, <a href="http://twitter.com/simplystats">@simplystats</a>, <a href="http://simplystatistics.org">Simply Statistics</a>, and <a href="https://github.com/jtleek">Github</a>.'
 url:              http://jtleek.github.io
 
