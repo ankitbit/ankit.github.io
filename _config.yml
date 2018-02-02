@@ -5,18 +5,14 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            <div style="float: left; margin-left:15px">
-      <a href="https://www.github.com/ankitbit"><img src="../images/giphy-downsized.gif" width="200" height="150"></a>
-      </div> 
-tagline:          'website'
-description:      'Find me online <a href="http://twitter.com/acmankit">@twitter</a>, <a href="http://facebook.com/ankit.tewari">@facebook</a>, <a href="http://simplystatistics.org">Simply Statistics</a>, and <a href="https://github.com/ankitbit">Github</a>.'
-
-
-url:              http://ankitbit.github.io
+title:            jtleek
+tagline:          'Leek Group'
+description:      'Find me online <a href="http://twitter.com/jtleek">@jtleek</a>, <a href="http://twitter.com/simplystats">@simplystats</a>, <a href="http://simplystatistics.org">Simply Statistics</a>, and <a href="https://github.com/jtleek">Github</a>.'
+url:              http://jtleek.github.io
 
 author:
-  name:           'Ankit Tewari'
-  url:            https://twitter.com/acmankit
+  name:           'Jeff Leek'
+  url:            https://twitter.com/jtleek
 
 paginate:         5
 
@@ -24,4 +20,4 @@ paginate:         5
 version:          2.0.0
 
 github:
-  repo:           https://github.com/ankitbit/ankitbit.github.io
+  repo:           https://github.com/jtleek/jtleek.github.io
