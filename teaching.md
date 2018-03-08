@@ -10,3 +10,5 @@ title: Teaching
 
 ### Statistical Computing
 * Course notes on [Statistical Computing]() 
+
+Some of my personalized course notes and assignments along with [solved problems](https://github.com/ankitbit/Probability_and_Stochastic_Processes) on [Probability and Stochastic Processes](https://github.com/ankitbit/Probability_and_Stochastic_Processes) 
