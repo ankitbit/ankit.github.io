@@ -5,14 +5,14 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            AT
+title:            @Radiance
 tagline:          'Ankit Tewari'
-description:      'Find me online <a href="http://twitter.com/jtleek">@jtleek</a>, <a href="http://twitter.com/simplystats">@simplystats</a>, <a href="http://simplystatistics.org">Simply Statistics</a>, and <a href="https://github.com/jtleek">Github</a>.'
-url:              http://jtleek.github.io
+description:      'Find me online <a href="http://twitter.com/acmankit">@acmankit</a>, <a href="http://twitter.com/simplystats">@simplystats</a>, and <a href="https://github.com/ankitbit">Github</a>.'
+url:              http://ankitbit.github.io
 
 author:
-  name:           'Jeff Leek'
-  url:            https://twitter.com/jtleek
+  name:           'Ankit Tewari'
+  url:            https://twitter.com/ankitbit
 
 paginate:         5
 
@@ -20,4 +20,4 @@ paginate:         5
 version:          2.0.0
 
 github:
-  repo:           https://github.com/jtleek/jtleek.github.io
+  repo:           https://github.com/ankitbit/ankitbit.github.io
