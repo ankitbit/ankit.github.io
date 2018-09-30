@@ -5,7 +5,7 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            'ankitt'
+title:            ''
 tagline:          'Ankit Tewari'
 description:      'Find me online <a href="http://twitter.com/acmankit">@acmankit</a>, <a href="http://twitter.com/simplystats">@simplystats</a>, and <a href="https://github.com/ankitbit">Github</a>.'
 url:              http://ankitbit.github.io
